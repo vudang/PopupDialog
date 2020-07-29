@@ -27,7 +27,6 @@
 		47E1B65824D1CD3700C1EC8B /* PopupDialogDefaultButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47E1B64724D1CD3700C1EC8B /* PopupDialogDefaultButtons.swift */; };
 		47E1B65924D1CD3700C1EC8B /* PresentationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47E1B64824D1CD3700C1EC8B /* PresentationManager.swift */; };
 		47E1B65A24D1CD3700C1EC8B /* PopupDialogContainerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47E1B64924D1CD3700C1EC8B /* PopupDialogContainerView.swift */; };
-		47E1B65C24D1CD5900C1EC8B /* DynamicBlurView.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 47E1B65B24D1CD5900C1EC8B /* DynamicBlurView.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,7 +63,6 @@
 		47E1B64724D1CD3700C1EC8B /* PopupDialogDefaultButtons.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PopupDialogDefaultButtons.swift; sourceTree = "<group>"; };
 		47E1B64824D1CD3700C1EC8B /* PresentationManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PresentationManager.swift; sourceTree = "<group>"; };
 		47E1B64924D1CD3700C1EC8B /* PopupDialogContainerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PopupDialogContainerView.swift; sourceTree = "<group>"; };
-		47E1B65B24D1CD5900C1EC8B /* DynamicBlurView.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = DynamicBlurView.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,7 +70,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				47E1B65C24D1CD5900C1EC8B /* DynamicBlurView.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -90,7 +87,6 @@
 		47E1B61424D1CCEF00C1EC8B = {
 			isa = PBXGroup;
 			children = (
-				47E1B65B24D1CD5900C1EC8B /* DynamicBlurView.framework */,
 				47E1B62024D1CCEF00C1EC8B /* PopupDialog */,
 				47E1B62B24D1CCEF00C1EC8B /* PopupDialogTests */,
 				47E1B61F24D1CCEF00C1EC8B /* Products */,
